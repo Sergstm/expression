@@ -1,0 +1,64 @@
+body {
+    /*outline: 1px solid red;*/
+    background-color: #EBEBEB;
+}
+
+h1 {
+    /*color: red;*/
+    text-align: center;
+}
+
+#auth {
+    /*outline: 1px solid red;*/
+    background-color: #EBDDFA;
+    border: 3px solid black;
+    border-radius: 30px;
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    margin: 100px 350px;
+    padding: 10%;
+}
+
+div {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+#text {
+    background-color: #F3F6FF;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 1%;
+}
+
+#ent {
+    position: absolute;
+    left: 34%;
+}
+
+table {
+    /*outline: 1px solid red;*/
+    /*background-color: blue;*/
+}
+
+#imp {
+    color: red;
+}
+
+h3 {
+    /*outline: 1px solid red;*/
+    text-shadow: 1px 1px 1px gray;
+    position: absolute;
+    left: 390px;
+    bottom: 300px;
+    z-index: 1;
+}
+
+
+
+
+
+
+
