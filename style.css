@@ -1,22 +1,18 @@
 body {
-    /*outline: 1px solid red;*/
     background-color: #EBEBEB;
 }
 
 h1 {
-    /*color: red;*/
     text-align: center;
 }
 
 #auth {
-    /*outline: 1px solid red;*/
     background-color: #EBDDFA;
     border: 3px solid black;
     border-radius: 30px;
-    position: absolute;
     width: 300px;
     height: 100px;
-    margin: 100px 350px;
+    margin: 10% auto;
     padding: 10%;
 }
 
@@ -35,12 +31,7 @@ div {
 
 #ent {
     position: absolute;
-    left: 34%;
-}
-
-table {
-    /*outline: 1px solid red;*/
-    /*background-color: blue;*/
+    left: 43%;
 }
 
 #imp {
@@ -51,8 +42,8 @@ h3 {
     /*outline: 1px solid red;*/
     text-shadow: 1px 1px 1px gray;
     position: absolute;
-    left: 390px;
-    bottom: 300px;
+    left: 31%;
+    bottom: 45%;
     z-index: 1;
 }
 
